@@ -70,3 +70,4 @@ r="bye"
 
 
 // alert(input1+input2);
+console.log(isNaN(a))
