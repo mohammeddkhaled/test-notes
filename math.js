@@ -32,3 +32,4 @@ captcha===userInput?console.warn("Correct capthca"):console.error("Wrong Captcha
 
     // console.error("Wrong CAPTCAH");
     
+// khaled
